@@ -4,6 +4,6 @@
 
 
 
-| Scrolling |UIPageViewController|
+| UICollectionView only |UIPageViewController|
 | ----------|--------------------| 
 |![](gods.gif)|![](page.gif)|
