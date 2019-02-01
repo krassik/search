@@ -6,4 +6,4 @@
 
 | Scrolling |UIPageViewController|
 | ----------|--------------------| 
-|![](avocado.gif)|![](page.gif)|
+|![](gods.gif)|![](page.gif)|
